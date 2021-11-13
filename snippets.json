@@ -166,12 +166,12 @@
             "        x: cyClientLeft + canvasX,",
             "        y: cyClientTop + canvasY,",
             "    }",
-            "}",
+            "}"
         ],
         "description": "pointX/pointY 转 clientX/clientY"
     },
     "cy-coord-getPointByCanvas": {
-        "prefix": "g6-coord-getPointByCanvas",
+        "prefix": "cy-coord-getPointByCanvas",
         "scope": "javascript,javascriptreact",
         "body": [
             "// Convert a rendered position to a model position",

@@ -2,7 +2,7 @@
 	"name": "vscode-snippet-cy",
 	"displayName": "cytoscape common snippet",
 	"description": "cytoscape常用代码片段",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "haohailiang",
 	"author": {
         "name": "haohailiang",
