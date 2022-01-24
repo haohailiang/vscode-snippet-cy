@@ -1,10 +1,10 @@
 {
-	"name": "vscode-snippet-cy",
-	"displayName": "snippet cytoscape",
-	"description": "cytoscape常用代码片段",
-	"version": "0.0.4",
-	"publisher": "haohailiang",
-	"author": {
+    "name": "vscode-snippet-cy",
+    "displayName": "snippet cytoscape",
+    "description": "cytoscape常用代码片段",
+    "version": "0.0.4",
+    "publisher": "haohailiang",
+    "author": {
         "name": "haohailiang",
         "email": "646263409@qq.com"
     },
@@ -20,38 +20,38 @@
     "keywords": [
         "cytoscape"
     ],
-	"engines": {
-		"vscode": "^1.28.0"
-	},
-	"categories": [
-		"Snippets"
-	],
-	"contributes": {
-		"snippets": [
-			{
-				"language": "javascript",
-				"path": "./snippets.json"
-			},
-			{
-				"language": "typescript",
-				"path": "./snippets.json"
-			},
-			{
-				"language": "typescriptreact",
-				"path": "./snippets.json"
-			},
-			{
-				"language": "typescriptreact",
-				"path": "./snippets.json"
-			},
-			{
-				"language": "json",
-				"path": "./snippets.json"
-			},
-			{
-				"language": "jsonc",
-				"path": "./snippets.json"
-			}
-		]
-	}
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets.json"
+            },
+            {
+                "language": "json",
+                "path": "./snippets.json"
+            },
+            {
+                "language": "jsonc",
+                "path": "./snippets.json"
+            }
+        ]
+    }
 }
